@@ -1,0 +1,18 @@
+{
+  "name": "new114/head-first-design-pattern-php",
+  "authors": [
+    {
+      "name": "AmlKamel132",
+      "email": "56166672+AmlKamel132@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^7.3.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Patterns\\": "Patterns",
+      "Tests\\": "Tests"
+    }
+  }
+}
