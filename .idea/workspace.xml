@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ecd136-3d26-4a44-bda4-b193280349ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/CurrentConditionsDisplay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/DisplayElement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/Observer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/Subject.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/WeatherData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Patterns/Chapter2/Read.md" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/Chapter2/Read.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
