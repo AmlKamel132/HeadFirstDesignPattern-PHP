@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24ecd136-3d26-4a44-bda4-b193280349ca" name="Changes" comment="" />
+    <list default="true" id="24ecd136-3d26-4a44-bda4-b193280349ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/Read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/CurrentConditionsDisplay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/DisplayElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/Observer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/WeatherData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
@@ -48,6 +66,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="21SOy2A3gnxE8IQe8EKX602k1NI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,6 +79,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -69,7 +91,7 @@
       <recent name="D:\New folder\HeadFirstDesignPattern-PHP\Patterns\Chapter1\SimDuck" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.SimUDuckTest">
+  <component name="RunManager" selected="PHPUnit.WeatherORamaFirstTest.testCanNotifyAllObserversWhenMeasurementsChange">
     <configuration name="SimUDuckTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -97,13 +119,8 @@
       <TestRunner class="Tests\StrategyTest" file="$PROJECT_DIR$/Tests/Chapter1/SimUDuckTest.php" scope="Class" />
       <method v="2" />
     </configuration>
-    <configuration name="StrategyTest.testMallardDuckCanFlyWithWings" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <CommandLine>
-        <PhpTestInterpreterSettings>
-          <option name="interpreterName" value="PHP 7.4" />
-        </PhpTestInterpreterSettings>
-      </CommandLine>
-      <TestRunner class="Tests\StrategyTest" file="$PROJECT_DIR$/Tests/Chapter1/SimUDuckTest.php" method="testMallardDuckCanFlyWithWings" scope="Method" />
+    <configuration name="WeatherORamaFirstTest.testCanNotifyAllObserversWhenMeasurementsChange" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Chapter2\WeatherORamaFirstTest" file="$PROJECT_DIR$/Tests/Chapter2/WeatherORamaFirstTest.php" method="testCanNotifyAllObserversWhenMeasurementsChange" scope="Method" />
       <method v="2" />
     </configuration>
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Patterns/Chapter1/SimUDuck/public/index.php">
@@ -116,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.WeatherORamaFirstTest.testCanNotifyAllObserversWhenMeasurementsChange" />
         <item itemvalue="PHPUnit.SimUDuckTest" />
         <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHPUnit.StrategyTest (1)" />
         <item itemvalue="PHPUnit.StrategyTest" />
-        <item itemvalue="PHPUnit.StrategyTest.testMallardDuckCanFlyWithWings" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +151,8 @@
       <updated>1637931272382</updated>
       <workItem from="1637931273685" duration="1666000" />
       <workItem from="1637944379930" duration="478000" />
-      <workItem from="1637945156028" duration="1222000" />
+      <workItem from="1637945156028" duration="1580000" />
+      <workItem from="1637953209324" duration="7172000" />
     </task>
     <servers />
   </component>
