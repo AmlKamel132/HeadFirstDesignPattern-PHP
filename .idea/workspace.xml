@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24ecd136-3d26-4a44-bda4-b193280349ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/Read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/CurrentConditionsDisplay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/DisplayElement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/Observer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/Subject.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/WeatherData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaFirst/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/CurrentConditionsDisplay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/DisplayElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/Observer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/Subject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/WeatherData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Chapter2/WeatherORamaSecond/public/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Patterns/Chapter2/Read.md" beforeDir="false" afterPath="$PROJECT_DIR$/Patterns/Chapter2/Read.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +76,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Patterns/Chapter2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\New folder\HeadFirstDesignPattern-PHP\Patterns\Chapter2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\New folder\HeadFirstDesignPattern-PHP\Patterns\Chapter1\SimUDuck\public" />
       <recent name="D:\New folder\HeadFirstDesignPattern-PHP\Tests\Chapter1" />
@@ -152,7 +154,7 @@
       <workItem from="1637931273685" duration="1666000" />
       <workItem from="1637944379930" duration="478000" />
       <workItem from="1637945156028" duration="1580000" />
-      <workItem from="1637953209324" duration="7172000" />
+      <workItem from="1637953209324" duration="9093000" />
     </task>
     <servers />
   </component>
