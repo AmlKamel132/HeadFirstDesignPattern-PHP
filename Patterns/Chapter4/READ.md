@@ -1,4 +1,4 @@
-##chapter 4
+## chapter 4
 ### factories 
 #### SimplePizzaStore
    * this example belongs to simple factory .
@@ -10,4 +10,10 @@
  
  
  --------------------------------------------------------------
+   ### FactoryMethodPizzaStore
+   *  this example belongs to Factory Method Pattern  (Creational Design Pattern)
+ 
+ 
+ ------------------------------------------------------------------
    
+    
