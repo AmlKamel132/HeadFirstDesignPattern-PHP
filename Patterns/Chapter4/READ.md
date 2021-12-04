@@ -15,5 +15,8 @@
  
  
  ------------------------------------------------------------------
+  ### AbstractFactoryPizzaStore
+   *  this example belongs to Abstract Factory Pattern  (Creational Design Pattern)
+ 
    
     
